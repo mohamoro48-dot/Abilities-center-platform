@@ -54,7 +54,7 @@
   <header class="text-center mb-10 p-6 bg-white shadow-2xl rounded-xl border-b-4 border-trust-blue">
     <!-- Logo area using Unicode/HTML elements -->
     <div class="flex flex-col items-center mb-4">
-        <img src="LOGO.jpg" alt="شعار المركز" style="height: 200px;">
+       <img src="LOGO.JPG" alt="شعار المركز" style="height: 200px;">
         <h1 class="text-4xl md:text-5xl font-extrabold text-trust-blue">مركز تنمية القدرات</h1>
         <p class="text-lg text-gray-600 mt-1">Abilities Development Center (ADC)</p>
     </div>

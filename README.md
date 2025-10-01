@@ -74,19 +74,19 @@
   <!-- Section 1: The Vision and Operations -->
   <section id="operations" class="mb-12 p-6 bg-white shadow-2xl rounded-xl border-t-4 border-primary-stone">
     <h2 class="text-2xl md:text-3xl font-bold mb-6 border-b pb-2 text-trust-blue">1. الرؤية وآلية التشغيل (تقليل مخاطر الاستثمار)</h2>
-    <p class="mb-6 text-gray-600 font-medium">نحن لا ننشئ مركزاً آخر؛ نحن نبني منصة قادرة على التوسع إقليمياً. الآلية التشغيلية مصممة لتقليل التكاليف وزيادة مرونة الخدمة، وهو مفتاح النجاح في الخدمات المتخصصة.</p>
+    <p class="mb-6 text-gray-600 font-medium">نحن لا ننشئ مركزاً آخر؛ نحن نطور منصة قادرة على التوسع إقليمياً. والآلية التشغيلية مصممة لتقليل التكاليف وزيادة مرونة الخدمة، وهو مفتاح النجاح في الخدمات المتخصصة.</p>
 
     <!-- Operational Flow -->
     <div class="space-y-4 mb-8">
         <h3 class="text-xl font-semibold text-trust-blue">آلية العمل المتكاملة:</h3>
         <div class="p-4 bg-gray-50 rounded-lg border border-gray-200 shadow-sm flex items-center">
-            <span class="font-bold text-accent-amber w-1/4">1. التقييم:</span> <span class="text-sm">استمارة إلكترونية $\rightarrow$ تقييم أولي من الأخصائي.</span>
+            <span class="font-bold text-accent-amber w-1/4">1. التقييم:</span> <span class="text-sm">استمارة إلكترونية  تقييم أولي من الأخصائي.</span>
         </div>
         <div class="p-4 bg-gray-50 rounded-lg border border-gray-200 shadow-sm flex items-center">
             <span class="font-bold text-accent-amber w-1/4">2. الأتمتة:</span> <span class="text-sm">إنشاء **خطة فردية مُولّدة بالذكاء الاصطناعي** وربطها بالمكتبة التعليمية.</span>
         </div>
         <div class="p-4 bg-gray-50 rounded-lg border border-gray-200 shadow-sm flex items-center">
-            <span class="font-bold text-accent-amber w-1/4">3. المتابعة:</span> <span class="text-sm">ولي الأمر يرفع فيديو تطبيق الطالب $\rightarrow$ الأخصائي يقيم ويرسل **ملخصاً آلياً**.</span>
+            <span class="font-bold text-accent-amber w-1/4">3. المتابعة:</span> <span class="text-sm">ولي الأمر يرفع فيديو تطبيق الطالب و الأخصائي يقيم ويرسل **ملخصاً آلياً**.</span>
         </div>
     </div>
     
@@ -203,7 +203,7 @@
                 <h4 class="text-lg font-bold text-highlight-emerald flex items-center mb-4">
                     <span class="text-2xl mr-2">📊</span> مُلخص التقارير الدورية الآلي
                 </h4>
-                <p class="text-gray-700 mb-4 text-sm">يقلب التقارير المعقدة إلى ملخصات موجزة وإجراءات منزلية فورية. **دور الأخصائي:** يراجع الملخص الآلي للتأكد من دقته ثم يرسله لولي الأمر، مما يرفع من جودة خدمة العملاء.</p>
+                <p class="text-gray-700 mb-4 text-sm">يلخص التقارير المعقدة إلى ملخصات موجزة وإجراءات منزلية فورية. **دور الأخصائي:** يراجع الملخص الآلي للتأكد من دقته ثم يرسله لولي الأمر، مما يرفع من جودة خدمة العملاء.</p>
 
                 <button id="showReportBtn" onclick="showReportSummary()" class="w-full px-6 py-2 bg-highlight-emerald text-white font-semibold rounded-lg hover:bg-emerald-600 transition duration-300 shadow-lg mb-4">عرض نموذج الملخص التلقائي</button>
 

@@ -1,5 +1,5 @@
 <!-- Chosen Palette: المؤسسية (Primary #1f22c6)، الحيوية والتفاؤل (#f4d127)، الرقمنة والوضوح (#2fd3ec) -->
-<!-- Application Structure Plan: The architecture is strategically reordered (The Authority Flow): 1. الرؤية والتشغيل (The Market Opportunity & Core Operations). 2. القيادة الرقمية (The Proprietary AI Suite - showcasing 4 LLM tools to validate feasibility). 3. خطة التنفيذ والنمو (The Execution Plan). 4. الأداء المالي (The Financial Proof/ROI). This structure, driven by a 20-year expert persona, prioritizes selling the defensible, tech-enabled operational efficiency first to overcome the financial conservatism associated with the 20-student target. All AI tools are grouped under a single powerful section to maximize impact. -->
+<!-- Application Structure Plan: The architecture is strategically reordered (The Authority Flow): 1. الرؤية والتشغيل (The Market Opportunity & Core Operations). 2. المنصة الرقمية (The Proprietary AI Suite - showcasing 4 LLM tools to validate feasibility). 3. خطة التنفيذ والنمو (The Execution Plan). 4. الأداء المالي (The Financial Proof/ROI). This structure, driven by a 20-year expert persona, prioritizes selling the defensible, tech-enabled operational efficiency first to overcome the financial conservatism associated with the 20-student target. All AI tools are grouped under a single powerful section to maximize impact. -->
 <!-- Visualization & Content Choices: All four AI tools are simulated for 100% reliability. Financials use Chart.js for Donut (Budget Allocation) and Bar (Revenue/Expenses Comparison). The focus remains on clear, Arabic-centric UI/UX with full responsiveness, ensuring easy navigation between the strategically ordered sections. CONFIRMING NO SVG/Mermaid, using only Chart.js/Canvas and structured HTML/Tailwind. -->
 <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
 <style>
@@ -134,7 +134,7 @@
   
   <!-- Section 2: AI Capabilities - The Competitive Edge (Highest Priority) -->
   <section id="ai_tools" class="mb-12 p-6 bg-white shadow-2xl rounded-xl border-t-4 border-trust-blue">
-    <h2 class="text-2xl md:text-3xl font-bold mb-6 border-b pb-2 text-trust-blue">2. القيادة الرقمية: أدوات الذكاء الاصطناعي الأربعة</h2>
+    <h2 class="text-2xl md:text-3xl font-bold mb-6 border-b pb-2 text-trust-blue">2. المنصة الرقمية: أدوات الذكاء الاصطناعي الأربعة</h2>
     <p class="mb-6 text-gray-600 font-medium">هنا تكمن القيمة الحقيقية للاستثمار. الأخصائي هو قائد العملية، بينما تضاعف أدوات الذكاء الاصطناعي من كفاءته ودقة الخدمة المقدمة، مما يضمن جودة عالية بتكلفة أقل.</p>
 
     <!-- AI Tools Grouped by Function -->
@@ -329,7 +329,7 @@
 
   <!-- Footer -->
   <footer class="text-center p-4 mt-8 text-sm text-gray-500 border-t border-gray-300">
-    <p>&copy; 2025 القيادة الرقمية لتأهيل أصحاب الهمم. هذا العرض محمي بحقوق الملكية الفكرية.</p>
+    <p>&copy; 2025 المنصة الرقمية لتأهيل أصحاب الهمم. هذا العرض محمي بحقوق الملكية الفكرية.</p>
   </footer>
 
 </div>
